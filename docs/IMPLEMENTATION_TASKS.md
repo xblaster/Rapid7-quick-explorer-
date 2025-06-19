@@ -9,10 +9,10 @@ Cette liste propose un découpage initial pour développer le client Rapid7 Insi
    - Configurer ESLint et Prettier.
    - Mettre en place Vitest et React Testing Library.
    - Ajouter Cypress pour les tests end‑to‑end.
-3. [ ] **Gestion de la configuration**
+3. [x] **Gestion de la configuration**
    - Créer les fichiers `.env.*` selon l'exemple fourni.
    - Implémenter un service de lecture des variables d'environnement.
-4. [ ] **Authentification**
+4. [x] **Authentification**
    - Créer la page de connexion acceptant API Key ou Basic Auth + 2FA.
    - Stocker les informations chiffrées en `sessionStorage`.
 5. [ ] **Couche d'accès API**
